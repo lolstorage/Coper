@@ -11,7 +11,7 @@ import net.neoforged.fml.common.Mod;
 import net.neoforged.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.neoforged.neoforge.client.event.RegisterKeyMappingsEvent;
 import net.neoforged.neoforge.common.NeoForge;
-import net.neoforged.neoforge.event.TickEvent;
+import net.neoforged.neoforge.event.tick.ClientTickEvent;
 import org.lwjgl.glfw.GLFW;
 import org.slf4j.Logger;
 import com.mojang.logging.LogUtils;
