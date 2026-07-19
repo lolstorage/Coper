@@ -1,0 +1,13 @@
+{
+  "itemGroup.coper": "Example Mod Tab",
+  "block.coper.example_block": "Example Block",
+  "item.coper.example_item": "Example Item",
+
+  "coper.configuration.title": "Coper Configs",
+  "coper.configuration.section.coper.common.toml": "Coper Configs",
+  "coper.configuration.section.coper.common.toml.title": "Coper Configs",
+  "coper.configuration.items": "Item List",
+  "coper.configuration.logDirtBlock": "Log Dirt Block",
+  "coper.configuration.magicNumberIntroduction": "Magic Number Text",
+  "coper.configuration.magicNumber": "Magic Number"
+}
